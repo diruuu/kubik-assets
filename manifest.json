@@ -14,6 +14,21 @@
             "name": "Jenggot",
             "url": "beard/beard",
             "image": "beard/thumbnail.jpg"
+        },
+        {
+            "name": "Burning",
+            "url": "burning/burning_effect.deepar",
+            "image": "burning/preview.png"
+        },
+        {
+            "name": "Elephant Trunk",
+            "url": "elephant_trunk/Elephant_Trunk.deepar",
+            "image": "elephant_trunk/preview.png"
+        },
+        {
+            "name": "Viking",
+            "url": "viking/viking_helmet.deepar",
+            "image": "viking/preview.png"
         }
     ],
     "bg": [
@@ -26,6 +41,26 @@
             "name": "Snail",
             "url": "snail/snail",
             "image": "snail/thumbnail.jpg"
+        },
+        {
+            "name": "Flower Face",
+            "url": "flower_face/flower_face.deepar",
+            "image": "flower_face/preview.png"
+        },
+        {
+            "name": "Humanoid",
+            "url": "humanoid/Humanoid.deepar",
+            "image": "humanoid/preview.png"
+        },
+        {
+            "name": "Neon Devil",
+            "url": "neon_devil/Neon_Devil_Horns.deepar",
+            "image": "neon_devil/preview.png"
+        },
+        {
+            "name": "Vendetta_Mask",
+            "url": "vendetta/Vendetta_Mask.deepar",
+            "image": "vendetta/preview.png"
         }
     ]
 }
