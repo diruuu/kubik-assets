@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Kacamata Aviator",
+        "url": "aviators/aviators",
+        "image": "aviators/thumbnail.jpg"
+    },
+    {
+        "name": "Background Segmentation",
+        "url": "background_segmentation/background_segmentation",
+        "image": "background_segmentation/thumbnail.jpg"
+    },
+    {
+        "name": "Jenggot",
+        "url": "beard/beard",
+        "image": "beard/thumbnail.jpg"
+    },
+    {
+        "name": "Galaxy Background Web",
+        "url": "galaxy_background_web/galaxy_background_web",
+        "image": "galaxy_background_web/thumbnail.jpg"
+    },
+    {
+        "name": "Snail",
+        "url": "snail/snail",
+        "image": "snail/thumbnail.jpg"
+    }
+]
